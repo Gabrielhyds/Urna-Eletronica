@@ -1,6 +1,7 @@
 # Projeto urna eletônica
-- Um pequeno e simples site criado em HTML5 CSS3 e JS
+- Um pequeno e simples site criado em HTML5 CSS3 e JS para treinar a LP
 
+![Captura de Tela (166)](https://user-images.githubusercontent.com/85001629/198904365-316e4c49-71a2-4188-9be5-dd24a7bd7c1e.png)
 
 # 💼 Tecnologias utilizadas
 
